@@ -74,7 +74,7 @@ Para comenzar a trabajar sobre el proyecto solo se deberab serguir las instrucci
 
 1.  Clone the repo
    ```
-   git clonehttps://github.com/rz-desarrollo/HDES.git
+   git clone https://github.com/rz-desarrollo/FYMW.git
    ```
 
 
@@ -91,7 +91,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Rodrigo Zerrezuela- rz.desarrollo@gmail.com
 
-Project Link: [https://github.com/rz-desarrollo/repo_Fymw](https://github.com/rz-desarrollo/repo_Fymw)
+Project Link: [https://github.com/rz-desarrollo/FYMW](https://github.com/rz-desarrollo/FYMW)
 
 
 
